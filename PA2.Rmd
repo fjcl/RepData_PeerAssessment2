@@ -2,9 +2,7 @@
 title: "Health and Economic Impact of Storms in United States, 1950-2011"
 author: "Javier Carrasco"
 date: "31/08/2017"
-output:
-  md_document:
-    variant: markdown_github
+output: html_document
 ---
 
 ## Synopsis
